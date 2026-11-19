@@ -1,1 +1,1 @@
-rabbitmq:4.4-management
+gitlab/gitlab-ce:19.4.7-ce.0
